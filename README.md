@@ -1,6 +1,9 @@
 # Genshin-BiLiLive
 通过B站直播弹幕实现多人云原神
 
+### 想法来源:
+<a herf="https://www.bilibili.com/video/BV1Di4y1f7fh"> BV1Di4y1f7fh </a>
+
 ### 键位表:
 <hr/>
 
