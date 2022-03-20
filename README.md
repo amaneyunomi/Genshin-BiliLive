@@ -3,6 +3,7 @@
 
 ### 想法来源:
 <a href="https://www.bilibili.com/video/BV1Di4y1f7fh" target="_blank" >BV1Di4y1f7fh</a>
+<a href="newurl" target="_blank">新页面</a>
 以及
 <a href="https://www.bilibili.com/video/BV1xQ4y1Q7CU" target="_blank" >BV1xQ4y1Q7CU</a>
 非常感谢！
