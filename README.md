@@ -2,15 +2,15 @@
 通过B站直播弹幕实现多人云原神
 
 ### 想法来源:
-<a href="https://www.bilibili.com/video/BV1Di4y1f7fh" target="_blank"> BV1Di4y1f7fh </a>
+<a href="https://www.bilibili.com/video/BV1Di4y1f7fh" target="_blank" >BV1Di4y1f7fh</a>
 以及
-<a href="https://www.bilibili.com/video/BV1xQ4y1Q7CU"> BV1xQ4y1Q7CU </a>
+<a href="https://www.bilibili.com/video/BV1xQ4y1Q7CU" target="_blank" >BV1xQ4y1Q7CU</a>
 非常感谢！
 
 <hr/>
 
 ### 说明:
-演示视频: <a href="https://www.bilibili.com/video/BV1pU4y1f7VW"> BV1pU4y1f7VW </a>
+演示视频: <a href="https://www.bilibili.com/video/BV1pU4y1f7VW" target="_blank" >BV1pU4y1f7VW</a>
 
 这个项目是拿来(学习/练手)的, 后续更新不好说.
 
